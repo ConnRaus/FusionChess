@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>blackbishop.png</file>
+        <file>blackrook.png</file>
+        <file>blackknight.png</file>
+        <file>blackking.png</file>
+        <file>blackpawn.png</file>
+        <file>blackqueen.png</file>
+        <file>whitebishop.png</file>
+        <file>whiterook.png</file>
+        <file>whiteknight.png</file>
+        <file>whiteking.png</file>
+        <file>whitepawn.png</file>
+        <file>whitequeen.png</file>
+        <file>combos/blackknightbishop.png</file>
+        <file>combos/blackknightqueen.png</file>
+        <file>combos/blackpawnbishop.png</file>
+        <file>combos/blackpawnknight.png</file>
+        <file>combos/blackpawnrook.png</file>
+        <file>combos/blackrookbishop.png</file>
+        <file>combos/blackrookknight.png</file>
+        <file>combos/whiteknightbishop.png</file>
+        <file>combos/whiteknightqueen.png</file>
+        <file>combos/whitepawnbishop.png</file>
+        <file>combos/whitepawnknight.png</file>
+        <file>combos/whitepawnrook.png</file>
+        <file>combos/whiterookbishop.png</file>
+        <file>combos/whiterookknight.png</file>
+    </qresource>
+</RCC>
