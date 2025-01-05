@@ -17,4 +17,4 @@ Fusion Chess is a chess variation created by me learn QT C++. In this version, p
    ```git clone https://github.com/ConnRaus/FusionChess.git```
 3. Navigate to the project directory:
    ```cd fusion-chess```
-4. Open the project in QT Creator and build the application.
+4. Open the `Chess.pro` project in QT Creator and build the application.
